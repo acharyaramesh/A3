@@ -1,0 +1,27 @@
+.columns{
+  padding:46px 141px;
+}
+.column{
+	float: left;
+	box-shadow: 1px 2px 3px 4px rgba(40,40,40,0.1);
+	padding:10px;
+	margin-left:20px;
+	position: relative;
+}
+.column span{
+	right: 16px;
+    top: 20px;
+    position: absolute;
+    color: #fff;
+    font-weight: 700;
+
+}
+.clear-float{
+	clear: left;
+}
+.column img{
+	width: 250px;
+}
+.column p{
+	width: 250px;
+}
